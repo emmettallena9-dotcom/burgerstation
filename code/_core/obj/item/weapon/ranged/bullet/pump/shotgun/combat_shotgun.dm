@@ -86,7 +86,7 @@
 
 /obj/item/weapon/ranged/bullet/pump/shotgun/combat/mod
 	name = "12g Hunter-Killer Combat Shotgun MOD"
-	desc = "A very robust combat shotgun. This one has been modified to be stronger and lighter. Used mostly by elite syndicate operatives on boarding missions."
+	desc_extended = "A very robust combat shotgun. This one has been modified to be stronger and lighter. Used mostly by elite syndicate operatives on boarding missions."
 	icon = 'icons/obj/item/weapons/ranged/shotgun/syndicate/pump_mod.dmi'
 	icon_state = "inventory"
 
