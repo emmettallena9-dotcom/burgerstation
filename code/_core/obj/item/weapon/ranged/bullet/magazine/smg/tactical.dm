@@ -123,7 +123,7 @@
 /obj/item/weapon/ranged/bullet/magazine/smg/tactical/corporate
 	name = "\improper 9x19mm MTAC Corporate Edition"
 	desc = "Precision in the palms of your hands."
-	desc_extended = "A decently accurate full auto SMG designed to take down targets at medium ranges while still being able to fight in close range. This one is designated as the corporate edition and has a slightly hire firerate."
+	desc_extended = "A decently accurate full auto SMG designed to take down targets at medium ranges while still being able to fight in close range. This one is designated as the corporate edition and has a slightly higher firerate."
 	icon = 'icons/obj/item/weapons/ranged/smg/nanotrasen/9mm.dmi'
 	icon_state = "inventory"
 	value = 2000
